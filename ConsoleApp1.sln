@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{39B1546E-B773-4626-B51D-BE5C2A2B503C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Device_Info_Fetch_Setup", "Device Info Fetch_Setup\Device Info Fetch_Setup.vdproj", "{0466BFC8-9ECC-439C-AD24-D3A297A73D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B1546E-B773-4626-B51D-BE5C2A2B503C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B1546E-B773-4626-B51D-BE5C2A2B503C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B1546E-B773-4626-B51D-BE5C2A2B503C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B1546E-B773-4626-B51D-BE5C2A2B503C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0466BFC8-9ECC-439C-AD24-D3A297A73D05}.Debug|Any CPU.ActiveCfg = Debug
+		{0466BFC8-9ECC-439C-AD24-D3A297A73D05}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A0E245-70CC-4DE5-BC0A-5C915B23FF7F}
+	EndGlobalSection
+EndGlobal
